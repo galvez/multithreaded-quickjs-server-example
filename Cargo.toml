@@ -1,0 +1,11 @@
+[package]
+name = "rust-book-chapter-20-5"
+version = "0.1.0"
+authors = ["Jonas Galvez <jonasgalvez@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+http = "0.2.1"
+quick-js = "0.3.3"
